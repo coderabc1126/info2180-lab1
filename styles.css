@@ -1,10 +1,13 @@
 h1{
   font-size: 24px;
-  background: #38B2AC; }
+  color: #38B2AC;
+}
 
 h2{
   font-size: 21px;
-  background: #5A67D8; }
+  color: #5A67D8;
+}
 
 p{
-  font-size: 18px;}
+  font-size: 18px;
+}
